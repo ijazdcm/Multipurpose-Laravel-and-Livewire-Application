@@ -47,7 +47,7 @@
     <script src="/js/backend.js"></script>
     @stack('js')
     @stack('before-livewire-scripts')
-    <livewire:scripts />
+    <livewire:scripts/>
     @stack('after-livewire-scripts')
 
     @stack('alpine-plugins')
